@@ -1,0 +1,32 @@
+{
+  "name": "trustdecision-antibot-solver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/generator": "^7.21.5",
+    "@babel/parser": "^7.21.8",
+    "@babel/traverse": "^7.21.5",
+    "@babel/types": "^7.21.5",
+    "babel": "^6.23.0",
+    "express": "^4.21.2",
+    "js-beautify": "^1.15.1",
+    "node-fetch": "2",
+    "readline-sync": "^1.4.10",
+    "trustdecision-antibot-solver": "file:"
+  },
+  "devDependencies": {
+    "@types/babel__generator": "^7.6.8",
+    "@types/babel__traverse": "^7.20.6",
+    "ts-node": "^10.9.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [],
+  "description": ""
+}

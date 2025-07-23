@@ -1,0 +1,8 @@
+google-cloud-firestore
+typing_extensions
+requests_go
+javascript
+tls_client
+curl_cffi
+flask
+mmh3
