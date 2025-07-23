@@ -1,5 +1,5 @@
 
-# Trust Decision Chinese Security Solver
+# Trust Decision Security Solver
 
 This software lets you
 
