@@ -33,6 +33,8 @@ Suggested Fixes:
 - Different TLS signature options
 - Each solve has its own env and stack/heap memory leading to zero device leaks
 
+<img width="525" height="658" alt="Screenshot 2025-08-20 at 2 49 00 PM" src="https://github.com/user-attachments/assets/261ee1f3-64f7-4c87-b0c6-5644eba0656e" />
+
 **To Update/Deploy**
 
 - Ensure Google cloud artifacte reigstry, cloud run, firebase database setup access added
