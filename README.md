@@ -1,5 +1,5 @@
 
-# Trust Decision Security Solver
+# Trust Decision Solver - Reverse Engineered
 
 This software lets you
 
